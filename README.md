@@ -53,14 +53,6 @@ The course emphasizes **statistics** and **computer programming** as essential a
 
 ---
 
-## Office Hours
-- **Monday 12–1 pm** — Wata (574, 4th floor)  
-- **Tuesday 4–5 pm** — Wata (574, 4th floor)  
-- **Wednesday 1–2 pm** — David (Office 312D)  
-- **Friday 2–2:45 pm** — David (Office 312D)  
-
----
-
 ## Textbook
 - *Practical Statistics for Astronomers* (2nd Ed., Wall & Jenkins) — available via Tufts Library (PDF) or paperback (~$30).  
 - Supplementary resources: YouTube tutorials, alternate texts, online references.  
